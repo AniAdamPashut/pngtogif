@@ -4,6 +4,7 @@
 
 ## How To Use
 
-    - Step 1, put wanted pngs in the `images` folder
-    - Step 2, run `main.py`
-    - Step 3, all gifs in `out/`
+-   Step 0, create a folder named `images` and a folder named `out`
+-   Step 1, put wanted pngs in the `images` folder
+-   Step 2, run `main.py`
+-   Step 3, all gifs in `out/`
