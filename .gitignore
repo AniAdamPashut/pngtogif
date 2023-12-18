@@ -1,3 +1,2 @@
-out/*.gif
-build/
-dist/
+out/
+images/
